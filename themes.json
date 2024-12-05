@@ -1,0 +1,32 @@
+{
+    "themes": [
+      {
+        "id": "theme001",
+        "name": "BetterTrees",
+        "compatible_version": "1.5.2",
+        "description": "Enhances tree rendering and adds more realistic animations.",
+        "dependencies": ["BaseGame", "NaturePack"]
+      },
+      {
+        "id": "mod002",
+        "name": "UltraGraphics",
+        "compatible_version": "1.5.2",
+        "description": "Boosts the game's graphics to ultra-high definition, including new textures.",
+        "dependencies": ["GraphicsAPI"]
+      },
+      {
+        "id": "mod003",
+        "name": "QuestEnhancer",
+        "compatible_version": "1.5.1",
+        "description": "Expands on quests with additional objectives and rewards.",
+        "dependencies": ["BaseGame", "NPCExpansion"]
+      },
+      {
+        "id": "mod004",
+        "name": "SpeedRunTools",
+        "compatible_version": "1.4.9",
+        "description": "Adds tools for speedrunners, including timers and quick-restart options.",
+        "dependencies": ["BaseGame"]
+      }
+    ]
+  }
